@@ -1,4 +1,15 @@
-# PC-Temp
+# PC-Temp 
+#  aviso
+Aviso: Antivírus Detectando Como Trojan
+
+Estamos cientes de que alguns antivírus podem detectar o aplicativo como uma ameaça do tipo trojan. Isso ocorre devido ao envio de dados do seu PC para o dispositivo móvel, o que, em alguns casos, pode ser interpretado como um comportamento suspeito.
+
+Queremos garantir que nosso aplicativo foi projetado para monitorar o desempenho do seu PC e enviar informações como temperatura e carga da CPU, GPU e uso de memória para seu celular de forma segura e eficiente.
+
+Caso o antivírus continue a identificar o aplicativo como um falso positivo, recomendamos adicionar uma exceção para este aplicativo em seu antivírus. Caso você tenha alguma dúvida ou preocupação, entre em contato com nossa equipe de suporte, que está à disposição para ajudá-lo.
+
+Agradecemos pela compreensão e pelo uso do nosso serviço!
+#/////////////////////////////////////////////////////////////
 PC Temp APK e Programa de Monitoramento de PC:
 
 O PC Temp APK é um aplicativo para dispositivos Android que se conecta ao seu PC para monitorar em tempo real informações detalhadas sobre o desempenho do hardware. Com o uso deste app, você pode ver a temperatura da CPU, carga da GPU, utilização de memória e outros parâmetros essenciais diretamente do seu celular.
