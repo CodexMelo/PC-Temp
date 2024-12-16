@@ -28,6 +28,11 @@ Requisitos:
 
 No PC: Instalar o programa servidor para Windows que envia os dados do hardware.
 No celular Android: Instalar o PC Temp APK e conectar ao servidor via IP local.
+
+
+
 ![Captura de tela 2024-12-15 230923](https://github.com/user-attachments/assets/c2632914-3f1e-4263-ac20-702623474bdb)
+![WhatsApp Image 2024-12-15 at 23 11 22](https://github.com/user-attachments/assets/919f637f-2fc3-4c84-8691-5f23560cfaab)
+![WhatsApp Image 2024-12-15 at 23 11 22 (1)](https://github.com/user-attachments/assets/d3f7514c-2bb8-4140-8520-bfe0c8bbc7ef)
 
 
